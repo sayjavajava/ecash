@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/aalm_current/!svn/ver/5137/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/WebServices/Models/Observers
+END
+LoanActionHistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/WebServices/Models/Observers/LoanActionHistory.php
+END
+Document.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/aalm_current/!svn/ver/5137/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/WebServices/Models/Observers/Document.php
+END
+DocumentHash.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/WebServices/Models/Observers/DocumentHash.php
+END
+PersonalReference.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/WebServices/Models/Observers/PersonalReference.php
+END
+Application.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/WebServices/Models/Observers/Application.php
+END
+DoNotLoanFlag.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/WebServices/Models/Observers/DoNotLoanFlag.php
+END
+DoNotLoanFlagOverride.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/WebServices/Models/Observers/DoNotLoanFlagOverride.php
+END

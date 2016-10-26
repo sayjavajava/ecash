@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Application/Events
+END
+Verfication.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Application/Events/Verfication.php
+END
+HotFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Application/Events/HotFile.php
+END
+QuickCheck.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Application/Events/QuickCheck.php
+END
+Collections.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Application/Events/Collections.php
+END
+ExtCollections.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Application/Events/ExtCollections.php
+END
+State.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Application/Events/State.php
+END
+Fraud.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Application/Events/Fraud.php
+END
+Underwriting.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Application/Events/Underwriting.php
+END
+Bankruptcy.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Application/Events/Bankruptcy.php
+END
+FollowUp.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Application/Events/FollowUp.php
+END
+HighRisk.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Application/Events/HighRisk.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Validation
+END
+LoanActionHistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Validation/LoanActionHistory.php
+END
+CampaignInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Validation/CampaignInfo.php
+END
+FBODApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Validation/FBODApplication.php
+END
+CFCApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Validation/CFCApplication.php
+END
+Application.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Validation/Application.php
+END
+BureauInquiry.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Validation/BureauInquiry.php
+END
+Site.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Validation/Site.php
+END
+Demographics.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/code/ECash/Validation/Demographics.php
+END

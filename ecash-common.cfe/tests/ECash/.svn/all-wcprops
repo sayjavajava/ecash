@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/tests/ECash
+END
+QualifyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/tests/ECash/QualifyTest.php
+END
+ConfigTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/tests/ECash/ConfigTest.php
+END
+FactoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/tests/ECash/FactoryTest.php
+END

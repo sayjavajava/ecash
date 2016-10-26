@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/Fraud
+END
+FraudRule.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/Fraud/FraudRule.php
+END
+FraudCheck.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/Fraud/FraudCheck.php
+END
+FraudProposition.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/Fraud/FraudProposition.php
+END
+FraudPrototype.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/Fraud/FraudPrototype.php
+END
+FraudCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/aalm_current/!svn/ver/1979/ecash/branches/sql_merge/ecash_common.cfe/Fraud/FraudCondition.php
+END
